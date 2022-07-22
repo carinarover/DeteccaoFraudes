@@ -29,6 +29,7 @@ Neste cenário, a inteligência artificial surge como uma ferramenta que dá mai
 Você como gestor, tem a missão neste desafio de destronar a American Express do posto de melhor instituição no combate à fraude. Para tanto, você precisa propor uma solução para detecção e análise de fraudes que possam reduzir os riscos da empresa e garantir margens saudáveis. Lembre-se, que o resultado do seu trabalho dará ainda mais visibilidade para você e sua área. Seja criterioso, utilize bons argumentos, fatos e justificativas para sua proposta, bem como, claro, faça uma boa execução do seu projeto.
 
 A missão não é fácil, já que o grande volume de informações e legado tecnológico são a realidade da maioria das corporações do setor, mesmo entre empresas líderes. Além disso, iniciativas de inteligência artificial demandam grande capacidade computacional e profissionais que saibam atuar com estas ferramentas. Apesar de ser evidente a importância da inteligência artificial, competências analíticas e manifesto impacto nas receitas, 36% das empresas ainda não percebem com clareza os benefícios das iniciativas de análise de dados para as atividades antifraude e apenas 39% possuem algum programa específico para este fim (veja quadro abaixo). Enquanto muitos possam ver estes números como um risco, você tem a oportunidade neste desafio de tratar estes números como uma grande oportunidade.
+
 ![image](https://user-images.githubusercontent.com/93684609/180048541-9ed140f6-c72b-4cfd-abba-c1e8762062b1.png)
 
 Fonte: ACFE (https://www.acfe.com/rtm2019/index.html#Learn)
